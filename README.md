@@ -3,8 +3,7 @@
 A responsive professional portfolio website showcasing my skills, projects, education, and development journey as a Computer Science Engineering student.
 
 ## 🚀 Live Demo
-
-Coming soon — the portfolio will be deployed shortly.
+🌐 [View My Portfolio](https://manya-rs.github.io/portfolio/)
 
 ## ✨ Features
 
@@ -46,7 +45,9 @@ A responsive weather application that allows users to search for current weather
 
 ## 🌐 Deployment
 
-The portfolio is deployed using Vercel.
+The portfolio is deployed using GitHub Pages.
+
+🔗 [Live Portfolio](https://manya-rs.github.io/portfolio/)
 
 ## 👩‍💻 Author
 
